@@ -10,4 +10,4 @@ Identify different metrics of COVID-19 affected patients such as: Confirmed, Dea
 
 ## Importance of Understanding:
 The public to make informed decisions regarding COVID-19 control measures and resource allocation.
-Understanding COVID-19 transmission patterns as well as vulnerable groups assists in identifying areas of greatest risk and executing focused actions to slow the spread.![image](https://github.com/jigarpatel1910/Project-1-Corona-Virus-Analysis/assets/93716277/6ea5d708-c42d-4d95-a979-884d22852c77)
+Understanding COVID-19 transmission patterns as well as vulnerable groups assists in identifying areas of greatest risk and executing focused actions to slow the spread.
